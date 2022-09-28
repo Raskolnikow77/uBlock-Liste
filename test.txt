@@ -6,7 +6,7 @@
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # Last updated:  2022-09-17
 
-### Betrügerische Onlineshops:
+### BetrÃ¼gerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
 10legend.com
 11trikots.com
